@@ -7,6 +7,8 @@ class Cobra(Snake):
     """Definitely dangerous, yup."""
     
     def bite(self, other):
+        venom = 'super poison'
+        print(venom)
         """Deliver a dose of venom."""
         pass
 
